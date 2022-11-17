@@ -1,0 +1,61 @@
+html>
+  <head>
+    <title>Dimitris Portfolio</title>
+    <style>
+      *{ font-family: Cabin,Arial; }
+      p{
+        color: maroon;
+        text-align: center;
+      }
+
+      img {
+
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+      h1,h2{ text-align: center; }
+      ol{
+        text-align: center; 
+        list-style-position: inside;
+      }
+    </style>
+  </head>
+
+  <body>
+
+<img src="file:///C:/Users/hipno/Documents/Profolio%20website%20files/PXL_20211224_125055062.PORTRAIT.jpg" alt="potrait" height="600px" width="500px "/>
+    <h1>Dimitris Online Portfolio</h1>
+    <h2>About me</h2>
+
+    <p>Hello my name is Dimitris and i am a self taught  html programmer. My goal is to land a web developer job and switch my current carrier from the hospitality industry. I a tech enthusiast and my hobby is photography,
+      in my spare time i keep my self updated with all the new technologies  </p>
+    <br>
+
+    <h2>Education</h2>
+
+    <p>Completed <a href="https://www.codecademy.com/" target="_blank">CodeAcademy</a>  HTML.</p>
+
+    <p>Drop Out <a href="https://www.aspete.gr/en/home/" target="_blank">School of Pedagogical and Technological Education</a>  Electronic Engineering Educators.</p>
+    
+    <p>Drop Out <a href="https://www.lcwc.ac.uk/" target="_blank">Lakes College</a>  Electronic Engineering.</p>
+    <br>
+
+    <p>I am proficient in the use of the following languages:</p>
+
+    <ol>
+      <li>HTML</li>
+
+    </ol>
+    <br>
+
+    <hr>
+    <h2>Contact me</h2>
+
+    <p>This is an email link:
+      <a href="mailto:d.karakonstantinou@outloo.com?Subject=Hello%20again" target="_top">Send Mail</a>
+    </p>
+
+  </body>
+</html>
